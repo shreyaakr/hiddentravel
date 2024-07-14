@@ -1,0 +1,49 @@
+.suggest-us-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+  }
+  
+  .suggest-us-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .suggest-us-form label {
+    display: block;
+    margin-bottom: 15px;
+  }
+  
+  .suggest-us-form input,
+  .suggest-us-form select,
+  .suggest-us-form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .suggest-us-form input[type="file"] {
+    padding: 0;
+  }
+  
+  .suggest-us-form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .suggest-us-form button:hover {
+    background-color: #0056b3;
+  }
+  
